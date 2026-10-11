@@ -1,0 +1,12 @@
+{
+  "baseline_alpha_min": 0.007204248611291542,
+  "baseline_alpha_max": 0.859460791929496,
+  "baseline_bounded": true,
+  "thin_layer_max_absorption": 2.1003258068308384e-06,
+  "frequency_convergence_error": 2.5318041684707637e-05,
+  "low_loss_total_variation_db": 75.36221739883658,
+  "high_loss_total_variation_db": 34.79785698521875,
+  "damping_reduces_spectral_sharpness": true,
+  "max_power_balance_error": 1.1102230246251565e-16,
+  "passive_transmission": true
+}
